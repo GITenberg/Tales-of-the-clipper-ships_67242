@@ -1,0 +1,44 @@
+_repo: Tales-of-the-clipper-ships_67242
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smith, Phil W.
+    gutenberg_agent_id: '54161'
+    url: http://www.gutenberg.org/2009/agents/54161
+creator:
+  author:
+    agent_name: Smith, C. Fox (Cicely Fox)
+    aliases:
+    - Fox-Smith, C. (Cicely)
+    - Smith, Cicely Fox
+    - Fox-Smith, Cicely
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '54169'
+    url: http://www.gutenberg.org/2009/agents/54169
+    wikipedia: https://en.wikipedia.org/wiki/C._Fox_Smith
+description: ''
+gutenberg_issued: '2022-01-24'
+identifiers:
+  gutenberg: '67242'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.312543
+pgterms:marc905: 20220105071748smith
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Steve Mattern, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Houghton Mifflin Company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Clipper ships -- Fiction'
+- GITenberg
+tableOfContents: The last voyage of the "Maid of Athens" -- The end of an argument
+  -- Oranges -- Seattle Sam signs on -- Paddy Doyle's boots -- The unlucky "Altisidora."
+title: Tales of the clipper ships
+url: http://www.gutenberg.org/ebooks/67242
