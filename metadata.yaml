@@ -5,6 +5,9 @@ contributor:
     agent_name: Smith, Phil W.
     gutenberg_agent_id: '54161'
     url: http://www.gutenberg.org/2009/agents/54161
+covers:
+- cover_type: archival
+  image_path: 67242-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, C. Fox (Cicely Fox)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54169
     wikipedia: https://en.wikipedia.org/wiki/C._Fox_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67242#Tales-of-the-clipper-ships
 gutenberg_issued: '2022-01-24'
 identifiers:
   gutenberg: '67242'
